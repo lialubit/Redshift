@@ -1,0 +1,80 @@
+bplist00Ò_WebSubframeArchives_WebMainResource¡ÑÕ	
+_WebResourceFrameName^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingNameViframe_#http://localhost:8888/files/asu.fitO8‹<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">SIMPLE  =                    T / Standard FITS Format                           BITPIX  =                    8 / Character data                                 NAXIS   =                    0 / No Image --- just extension(s)                 EXTEND  =                    T / There are standard extensions                  ORIGIN  = 'xml2fits_v1.95'     / Converted from XML-Astrores to FITS                                     e-mail: question@simbad.u-strasbg.fr                   LONGSTRN= 'OGIP 1.0'           / Long string convention (&amp;/CONTINUE) may be usedDATE    = '2018-01-16'         / Written on 2018-01-16:21:34:57 (GMT)                                        by: apache@vizier.u-strasbg.fr                              **********************************************************                          EXCERPT from catalogues stored in VizieR (CDS)                                             with the following conditions:                                   **********************************************************                                                                                                      VizieR Astronomical Server vizier.u-strasbg.fr                                  Date: 2018-01-16T21:34:57 [V1.99+ (14-Oct-2013)]                                In case of problem, please report to: cds-question@unistra.fr                                                                                          INFO    = 'votable-version=1.99+ (14-Oct-2013)' / #                             INFO    = '-ref=VIZ5a5e6ffaa688' / #                                            INFO    = '-out.max=50'        / #                                              Q-PARAMS=                   17 / Number of queryParameters (followed by list)            -oc.form=dec                                                                    -out.max=50                                                                     #out.form=FITS (ascii) Table                                                    -nav=cat:J/ApJS/184/218&amp;tab:{J/ApJS/184/218/table3}&amp;key:source=J/ApJS/1         84/218&amp;HTTPPRM:&amp;                                                                -c.eq=J2000                                                                     -c.r= 2                                                                         -c.u=arcmin                                                                     -c.geom=r                                                                       -source=J/ApJS/184/218/table3                                                   -order=I                                                                        -out=zCOSMOS                                                                    -out=RAJ2000                                                                    -out=DEJ2000                                                                    -out=z                                                                          -out=CClass                                                                     -out=Imag                                                                       -out=Mask                                                                       #                                                                               #RESOURCE=yCat_21840218                                                         #Name: J/ApJS/184/218                                                           #Title: The zCOSMOS 10k-bright spectroscopic sample (Lilly+, 2009)              #Coosys J2000: eq_FK5 J2000                                                                                                                            END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'TABLE   '           / Ascii Table Extension (TAB and NEWLINE sep)    BITPIX  =                    8 / Character data                                 NAXIS   =                    2 / Simple 2-D matrix                              NAXIS1  =                   52 / Number of bytes per record                     NAXIS2  =                   50 / Number of records                              PCOUNT  =                    0 / Get rid of random parameters                   GCOUNT  =                    1 / Only one group (isn't it obvious?)             TFIELDS =                    7 / Number of data fields (columns)                CDS-CAT = 'J/ApJS/184/218'     / Catalogue designation in CDS nomenclature               The zCOSMOS 10k-bright spectroscopic sample (Lilly+, 2009)             EXTNAME = 'J_ApJS_184_218_table3' / Identification of the table                 CDS-NAME= 'J/ApJS/184/218/table3' / Table name in METAtab                                zCOSMOS-bright 10k sample                                              TBCOL1  =                    2 / UCD=meta.id;meta.main int: ... offset=1        TFORM1  = 'I6      '           / Fortran Format                                 TTYPE1  = 'zCOSMOS '           / zCOSMOS identification number                  TBCOL2  =                    9 / UCD=pos.eq.ra;meta.main double: offset=8       TFORM2  = 'F10.6   '           / Fortran Format                                 TTYPE2  = 'RAJ2000 '           / Right Ascension in decimal degrees (J2000)     TUNIT2  = 'deg     '           / degree                                         TBCOL3  =                   20 / UCD=pos.eq.dec;meta.main double: offset=19     TFORM3  = 'F10.6   '           / Fortran Format                                 TTYPE3  = 'DEJ2000 '           / Declination in decimal degrees (J2000)         TUNIT3  = 'deg     '           / degree                                         TBCOL4  =                   31 / UCD=src.redshift float: ...... offset=30       TFORM4  = 'F7.4    '           / Fortran Format                                 TTYPE4  = 'z       '           / ? Spectroscopic redshift                       TNULL4  = 'NaN     '           / NULL definition                                TBCOL5  =                   39 / UCD=meta.code.qual float: .... offset=38       TFORM5  = 'F5.1    '           / Fortran Format                                 TTYPE5  = 'CClass  '           / Confidence class indicating reliability (1)    TBCOL6  =                   45 / UCD=phot.mag;em.opt.I float: . offset=44       TFORM6  = 'F5.2    '           / Fortran Format                                 TTYPE6  = 'Imag    '           / HST F814W filter selection AB magnitude        TUNIT6  = 'mag     '           / magnitude                                      TBCOL7  =                   51 / UCD=meta.code unsignedByte: .. offset=50       TFORM7  = 'I1      '           / Fortran Format                                 TTYPE7  = 'Mask    '           / Mask priority flag (2)                         END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+700137	150.502792	+01.877646	 0.8798	  1.5	22.27	1
+700142	150.395737	+01.837453	 0.6972	  3.5	21.96	1
+700178	150.305008	+01.876265	 0.9069	  9.5	22.24	1
+700189	150.308258	+01.916484	 0.8964	  2.5	21.84	1
+700210	150.210480	+01.828116	 0.2835	  1.5	22.14	1
+700219	150.096649	+01.866851	 0.6984	  1.5	22.50	1
+700229	150.079788	+01.917175	       	  0.0	21.91	1
+700247	149.994583	+01.839973	       	  0.0	22.47	1
+700257	149.986618	+01.885134	 0.0793	  9.3	22.41	1
+700267	150.023560	+01.826732	       	  0.0	22.38	1
+700273	150.022873	+01.826888	 0.3712	 24.5	22.31	1
+700274	149.926743	+01.869646	 0.5255	  4.5	22.29	1
+700276	149.926590	+01.936117	 0.0000	  4.4	22.47	1
+700284	149.828354	+01.827316	       	  0.0	22.49	1
+700291	149.890167	+01.859292	 0.9389	  2.5	22.46	1
+700296	149.838379	+01.906688	 0.3441	  3.5	22.15	1
+700298	149.816711	+01.916690	 0.8321	  3.5	22.49	1
+700447	150.425690	+02.123886	 0.7349	  3.5	22.49	1
+700448	150.515930	+02.123844	       	 20.0	22.05	1
+700458	150.403305	+02.055193	       	  0.0	22.44	1
+700468	150.272659	+01.966908	 0.3315	  3.5	22.46	1
+700480	150.314987	+02.008310	 0.1212	  9.1	21.81	1
+700485	150.281250	+02.018867	 0.2231	  1.1	22.47	1
+700490	150.390335	+02.032606	 0.2180	  3.5	22.46	1
+700496	150.253342	+02.047743	       	  0.0	22.31	1
+700497	150.250412	+02.049666	 1.1745	  1.5	22.49	1
+700501	150.338699	+02.069421	       	  0.0	22.36	1
+700504	150.330231	+02.070813	       	 20.0	22.39	1
+700508	150.321060	+02.080639	 0.8693	  9.5	22.50	1
+700514	150.310593	+02.103501	 0.7435	  3.5	22.50	1
+700517	150.269043	+02.113425	 0.6630	  4.5	22.47	1
+700518	150.269592	+02.124011	 0.8369	  3.1	22.35	1
+700521	150.255112	+02.115362	 0.9840	  1.1	22.33	1
+700523	150.238770	+02.053835	       	  0.0	20.66	1
+700526	150.349777	+01.981473	 0.4612	  2.1	21.63	1
+700529	150.280594	+02.021275	 0.2465	  3.5	21.46	1
+700534	150.208984	+01.964908	 0.6208	  3.5	22.50	1
+700549	150.197693	+02.015484	       	  0.0	22.49	1
+700551	150.192886	+02.015537	 0.4071	  1.5	22.39	1
+700558	150.146378	+02.061364	 0.7439	  2.5	22.35	1
+700559	150.094986	+02.062308	 0.7237	  3.1	22.19	1
+700567	150.203461	+02.098240	 0.9305	  3.1	22.44	1
+700568	150.205734	+02.105596	 0.4235	  3.5	22.40	1
+700571	150.123367	+02.109298	 0.0000	  4.1	22.48	1
+700576	150.221207	+02.103694	 0.1233	  3.1	19.69	1
+700583	150.095154	+02.116387	 0.1948	  4.4	22.10	1
+700585	150.122604	+02.108544	 0.7268	  2.5	22.46	1
+700587	150.183044	+02.028994	 0.2214	  3.4	20.47	1
+700593	149.951141	+01.974875	 0.3719	  4.5	22.50	1
+700597	149.973602	+02.007710	 0.8061	  1.1	22.46	1
+                                                                                                                                                                                                                                                                                        </pre></body></html>Ztext/plainUUTF-8Õ	
+P_"http://localhost:8888/view/asu.fitO<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <title>asu.fit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="/files/asu.fit"></iframe>
+  </div>
+
+
+</body></html>Ytext/html   # 5 7 : E \ k } “ ± ¸ Þ9m9x9~9‰9Š9¯;Ê                           ;Ô
